@@ -1,0 +1,12 @@
+Log created: 2022-06-16T22:50:42.750606000Z
+Process ID:  217974 (0x35376)
+Parent PID:  1215 (0x4bf)
+Executable:  /usr/lib/virtualbox/VBoxHeadless
+Arg[0]: /usr/lib/virtualbox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: app01_default_1655354188882_80131
+Arg[3]: --startvm
+Arg[4]: 989dd2e8-bff0-4a7b-8289-3a44ada3651c
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2

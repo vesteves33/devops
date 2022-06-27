@@ -1,0 +1,12 @@
+Log created: 2022-06-16T22:50:42.743069000Z
+Process ID:  214135 (0x34477)
+Parent PID:  210671 (0x336ef)
+Executable:  /usr/lib/virtualbox/VBoxHeadless
+Arg[0]: /usr/lib/virtualbox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: docker-lab_default_1655398621223_93814
+Arg[3]: --startvm
+Arg[4]: d3f32171-6256-4f0a-8c9a-0e32981af45a
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2
